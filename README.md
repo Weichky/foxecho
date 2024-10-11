@@ -1,5 +1,4 @@
-Typecho Blogging Platform
-Modified Version by Weichky
+Typecho: Modified Version by Weichky
 =========================
 ## Original Introduction
 
@@ -24,5 +23,5 @@ Typecho is released under the GNU General Public License 2.0.
   * PostgreSQL 9.1 or higher
 
 ## Contact
-[Typecho Official Site](https://typecho.org/)
-[Weichky's Site](https://weichky.com)
+* [Typecho Official Site](https://typecho.org/)
+* [Weichky's Site](https://weichky.com)
